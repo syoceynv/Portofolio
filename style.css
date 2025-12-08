@@ -141,15 +141,15 @@ body {
 .projects {
   display: flex;
   justify-content: center;
-  gap: 30px;
+  gap: px;
   flex-wrap: wrap;
-  margin: 100px;
+  margin: 00px;
 }
 
 .card {
   background: #fff;
-  border-radius: 10px;
-  width: 280px;
+  border-radius: 0px;
+  width: 200px;
   padding: 20px;
   text-align: center;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
